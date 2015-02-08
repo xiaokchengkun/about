@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+main{
+	/*background: -webkit-linear-gradient(
+		#001f3f 0%,#001f3f 12.5%,
+		#7fdbff 12.5%, #7fdbff 25%,
+		#ff851b 25%, #ff851b 37.5%,
+		#001f3f 37.5%, #001f3f 50%,
+		#001f3f 50%, #001f3f 62.5%,
+		#001f3f 62.5%, #001f3f 75%,
+		#001f3f 75%, #001f3f 82.5%,
+		#001f3f 82.5%, #001f3f 100%);
+*/
+}
+.section{
+	padding-left: 10% !important;
+	padding-right: 10% !important;
+	margin: 0 auto;
+}
+label{
+	margin-right: 10px;
+}

@@ -1,0 +1,11 @@
+
+
+.timeline-post-img img{
+	display: block;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.timeline-post-img + .timeline-post-img{
+	margin-top: 30px;
+}
